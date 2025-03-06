@@ -1,6 +1,7 @@
 # Titre principal numéro 1
 
-Descrition du projet
+Descrition du projet :
+Nous apprenons à utiliser github
 
 ## Supports:
 
