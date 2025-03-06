@@ -11,7 +11,7 @@ Le support de présentation est accessible ici :
 https://www.canva.com/design/DAGfErt9Phc/s-wMOeFwsPFuiE6Q7DoT3A/view
 
 ## Configuration
-
+La configuration est la suivante : 
 https://git-scm.com/book/fr/v2/D%C3%A9marrage-rapide-Param%C3%A9trage-%C3%A0-la-premi%C3%A8re-utilisation-de-Git
 
 
