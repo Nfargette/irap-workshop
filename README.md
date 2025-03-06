@@ -6,7 +6,7 @@ Et c'est difficile !
 Auteur : Albert Hittier
 
 ## Supports:
-
+Le support de présentation est accessible ici : 
 
 https://www.canva.com/design/DAGfErt9Phc/s-wMOeFwsPFuiE6Q7DoT3A/view
 
