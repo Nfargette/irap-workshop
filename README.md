@@ -3,7 +3,7 @@
 Descrition du projet :
 Nous apprenons à utiliser github
 Et c'est difficile !
-Auteur : Richard Hittier
+Auteur : Albert Hittier
 
 ## Supports:
 
